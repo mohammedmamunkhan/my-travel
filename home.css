@@ -787,7 +787,7 @@ form button{
     width: 300px;
     height: 220px;
     border-radius: 20px;
-    box-shadow: 0 0 20px rgb(174, 184, 194);
+    box-shadow: 0 0 6px rgb(174, 184, 194);
    
 }
 .fast-2{
@@ -799,7 +799,7 @@ form button{
     padding: 20px;
     border-radius: 20px;
    background-color: white;
-    box-shadow: 0 0 20px rgb(174, 184, 194);
+    box-shadow: 0 0 6px rgb(174, 184, 194);
     
 }
 .fast-3{
